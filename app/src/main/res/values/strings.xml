@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TP Liste RB</string>
+    <string-array name="andVersionName">
+        <item>france</item>
+        <item>espagne</item>
+        <item>Eclair</item>
+    </string-array>
+</resources>
